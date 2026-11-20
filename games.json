@@ -1,397 +1,163 @@
-[
-  {
-    "gameName": "Astral Express",
-    "gameDescription": "Blast through hostile stages, manage your ammo, and jump through exit portals in this fast-paced 2D action-platformer shooter.",
-    "gameUrl": "https://mrblxze.itch.io/astral-express",
-    "githubUrl": "https://github.com/ahmad-codes-ai/Haven-Game-Jam",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/6febe4db-0d0d-4595-9a5e-c36b49a5ee44.png",
-    "teamMembers": [
-      "Ahmad O.",
-      "Muhammad U.",
-      "Vortex A."
-    ]
-  },
-  {
-    "gameName": "Hakuna Matata",
-    "gameDescription": "HAKUNA MATATA\n\nA 2D action platformer where you fight your way past zombies and traps to reach the end of the level.\n\nWhat to Do?\n\nDefeat zombies using your pistol or a close-range melee attack.\nWatch out for Reflectors—if you shoot them, your bullet bounces straight back at you.\nStay alive and make it to the end of the map.\n\nControls\n\nMove Left / Right: A / D or Left / Right Arrow\nJump: Space\nCrouch: S or Down Arrow\nAim Up: W or Up Arrow\nShoot: Left Click\nMelee Attack: Right Click\n\nHow the Game Ends\n\nFind the Statue at the end of the level, walk up to it, and crouch in front of it to win the game.",
-    "gameUrl": "https://slayerarman.itch.io/hakuna-matata",
-    "githubUrl": "https://github.com/SlayerArman/hakuna-matata",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/61f6d373-473c-4270-88e0-599cb55dec59.png",
-    "teamMembers": [
-      "Ali H.",
-      "Arman Ahmad J.",
-      "Leo K."
-    ]
-  },
-  {
-    "gameName": "Lazy runner",
-    "gameDescription": "A amazing and funny game",
-    "gameUrl": "https://msn007.itch.io/lazy-runner",
-    "githubUrl": "https://github.com/shayannasir654321/haven-subm",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/908aa8be-5681-486a-ad9b-6428bd4e7594.png",
-    "teamMembers": [
-      "Hassaan N.",
-      "M. Shayan N.",
-      "MIRAL N."
-    ]
-  },
-  {
-    "gameName": "Back Fire OP",
-    "gameDescription": "You have no gun. The turrets do all the shooting, and your only weapon is their own fire. Catch the slow, glowing orbs they send at you, then throw them back, ideally bouncing them off a wall for extra damage.\n\nCatch and throw: Time your catch for full power. Hold up to 3 orbs for a bigger blast, but catch a 4th and you overload.\nThink in colors: Red, blue and green turrets are immune to their own color, so use one color’s fire to destroy another.\nBank your shots: Wall bounces and quick counter-hits add bonus damage.\n3 levels, 5 difficulties: From Easy to Nightmare, with patrol turrets in the final level.",
-    "gameUrl": "https://gfp9908-del.itch.io/back-fire-game",
-    "githubUrl": "https://github.com/gfp9908-del/back-fire",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/1dbe0fcc-a1a3-40b2-ad91-f0c2a9218c1e.png",
-    "teamMembers": [
-      "Muhammad zauraiz K.",
-      "Yousaf T."
-    ]
-  },
-  {
-    "gameName": "Musab's Warroir Coin Collecter Game",
-    "gameDescription": "A warrior collects coin while fighting enemies and avoiding falling in void",
-    "gameUrl": "https://musabspam-123.itch.io/musabs-warrior-coin-collecter",
-    "githubUrl": "https://github.com/musabshahzad321-del/musab-game",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/89e2ebe2-4b6f-475b-921e-0d420d5c48fb.png",
-    "teamMembers": [
-      "Musab S.",
-      "Sumaiya  S.",
-      "amna S."
-    ]
-  },
-  {
-    "gameName": "Rebound: Last Light",
-    "gameDescription": "REBOUND: LAST LIGHT is a fast-paced 2D arcade challenge where timing is everything. Move, dodge incoming bolts, and use your pulse shield to parry attacks at the perfect moment. Destroy the enemy machines, survive the arena, and push your score as far as you can.\n\nBounce. Parry. Survive.",
-    "gameUrl": "https://faarhankhan.itch.io/rebound-last-light",
-    "githubUrl": "https://github.com/farhankhan-ops/Rebound-Last-Light",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/4256c7c4-4862-4882-a076-d6fb677384b0.png",
-    "teamMembers": [
-      "Farhan K."
-    ]
-  },
-  {
-    "gameName": "Rise&hop",
-    "gameDescription": "A cute pixel-art game where an adorable bunny collects coins within a fast-paced time limit! Built with the Godot Engine.",
-    "gameUrl": "https://emaan-core.itch.io/rise-hop",
-    "githubUrl": "https://github.com/emaan-core/Rise-hop",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/7fb75f49-dd5c-4547-b870-a00f06943975.jpg",
-    "teamMembers": [
-      "Eman G."
-    ]
-  },
-  {
-    "gameName": "flipchef",
-    "gameDescription": "it is a game :)",
-    "gameUrl": "https://ayanahmad.itch.io/flipchef",
-    "githubUrl": "https://github.com/SaboorAhmad56/upgraded-rotary-phone",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/da78e297-31d4-4b3c-af74-a976e0491e4b.png",
-    "teamMembers": [
-      "Ayan A.",
-      "Shayan A."
-    ]
-  },
-  {
-    "gameName": "Operation reunite",
-    "gameDescription": "bunty reuniyes with pinky",
-    "gameUrl": "https://abeehafatima48.itch.io/operation-reunite",
-    "githubUrl": "https://github.com/zainabnaveed9737/haven-game",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/0450ef1d-b94f-4f86-958c-e2ae08c0a0b5.png",
-    "teamMembers": [
-      "Abeeha F.",
-      "Faiqa S.",
-      "Zainab N."
-    ]
-  },
-  {
-    "gameName": "Rebound Guard",
-    "gameDescription": "Rebound Guard is a fast-paced 2D arcade game built around the \"Bounced Back\" theme. You control a rotating energy shield to protect your core from incoming enemy balls. Instead of shooting, you must angle your shield to bounce back incoming attacks into other enemies, survive escalating neon levels, and dodge rotating obstacles to set a high score.",
-    "gameUrl": "https://nimra-amjad.itch.io/rebound-gaurd",
-    "githubUrl": "https://github.com/haiderkhan16129219-dotcom/Rebound-Gaurd",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/45904a0b-3dcc-4e3f-a17c-8822b24295f2.jpg",
-    "teamMembers": [
-      "Nimra A."
-    ]
-  },
-  {
-    "gameName": "cat fisher",
-    "gameDescription": "survive, kill and win fish",
-    "gameUrl": "https://himoking329.itch.io/catfisher",
-    "githubUrl": "https://github.com/HamnaCh456/Catfisher",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/cb754130-f4f6-4d97-b6af-eca7497db9eb.png",
-    "teamMembers": [
-      "Ayesha S.",
-      "Inshaa H."
-    ]
-  },
-  {
-    "gameName": "paws and rebound",
-    "gameDescription": "cat jumps and idk",
-    "gameUrl": "https://anabiaaa.itch.io/paws-and-rebound",
-    "githubUrl": "https://github.com/sanabianabeel-dot/pawsandrebound1",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/8f336516-f1e3-4c44-ae87-1b1ee55ccfa9.png",
-    "teamMembers": [
-      "Abdullah S.",
-      "Ahmed M.",
-      "Anabia N."
-    ]
-  },
-  {
-    "gameName": "ADA",
-    "gameDescription": "My game potrays the stages of life,the ups and downs, the good and bad\n\nsometimes ragebaits sometimes gets speedrunned by me ofc  a simple 45 sec gameplay which tells about the hardships and how to overcome them gets killed and gets respawned at spawn ,no checkpoints teaches you patience and way of life...............",
-    "gameUrl": "https://ayyan-butt.itch.io/ada-games",
-    "githubUrl": "https://github.com/ayyanbutt15100-art/GODOT-GAME-",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/3e18b87c-909e-4254-a0f6-166a905fb038.png",
-    "teamMembers": [
-      "Ahmad S.",
-      "Ayyan B.",
-      "Daniyal G."
-    ]
-  },
-  {
-    "gameName": "Upaid Stuntman",
-    "gameDescription": "idk!!! figure out yourself.",
-    "gameUrl": "https://khuzizcore.itch.io/unpaid-stuntman",
-    "githubUrl": "https://github.com/khuzizcore/Unpaid-Stuntman",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/c725ef2b-ad53-458d-b5aa-797cf61c7ff8.jpg",
-    "teamMembers": [
-      "Khuzaima K.",
-      "Tasneema A."
-    ]
-  },
-  {
-    "gameName": "Pixel Knight",
-    "gameDescription": "Jump, collect coins, and explore a quirky pixel-art world in this classic 2D platformer!\nTake control of a tiny armored knight on a mission across vibrant, block-filled terrain. Leap across colorful platforms, uncover mystery blocks, and grab every floating coin you can find. With retro visuals, tight platforming controls, and an unforgettable meme-inspired backdrop, this bite-sized adventure delivers pure arcade fun.\nFeatures:\n * Classic 2D Platforming: Tight jumping and movement mechanics across multi-layered terrain.\n * Interactive World: Hit mystery (? and !) blocks and collect scattered coins to boost your score.\n * Retro Pixel Art: Charming 16-bit style sprites paired with a humorous, custom backdrop.",
-    "gameUrl": "https://moeed-tariq.itch.io/html",
-    "githubUrl": "https://github.com/ftmoeed1-dotcom/my-first-game",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/84754617-0ecd-4a4a-be31-f90cda661c6f.jpg",
-    "teamMembers": [
-      "Moeed T."
-    ]
-  },
-  {
-    "gameName": "Tesla Roadster",
-    "gameDescription": "TESLA ROADSTER:\nIT IS A SIMPLE ROAD DIVING GAME THAT FOCUSES ON THE DODGING HURDLE BY THE ALL KNOWN TESLA ROADSTER INTRODUCED BY THE TESLA (#ELON MUSK).THE GAME HAS A GRAPHICAL USER INTERFACE GUI. THE ASSETS ARE DRIVED FROM ITCH.IO\nTHE ENVIRONMENT IS SELF EXPLANATORY AND EASY.   \nWHEN THE CAR HITS A HURDLE IT RESPAWN BACK TO ITS INITIAL POSITION.THIS IS HOW IT RELATES WITH THE THEME \"BOUNCE BACK\".",
-    "gameUrl": "https://zubairali.itch.io/tesla-roadster",
-    "githubUrl": "https://github.com/zubairali1094/tesla-roadster",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/34ed19cd-04e9-4a3a-9d23-7b6a30c4d69c.png",
-    "teamMembers": [
-      "Alyan H.",
-      "Azan J.",
-      "Zubair A."
-    ]
-  },
-  {
-    "gameName": "jumping game",
-    "gameDescription": "just a small game.",
-    "gameUrl": "https://aliza-sarwar.itch.io/jumping-games",
-    "githubUrl": "https://github.com/lisghi34/jumping-game",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/83b7e0f1-1a90-47c7-8b9b-a72371e3d427.png",
-    "teamMembers": [
-      "Aliza  S.",
-      "Samavia S."
-    ]
-  },
-  {
-    "gameName": "Among alone",
-    "gameDescription": "our game iis so funky and the theme is colorful you better like it",
-    "gameUrl": "https://nimra14.itch.io/among-alone",
-    "githubUrl": "https://github.com/umamahaq29-maker/Among-alone-1",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/35329ec3-3a02-4c30-9cbb-311a3883d028.png",
-    "teamMembers": [
-      "Nimra A.",
-      "Syeda U."
-    ]
-  },
-  {
-    "gameName": "Balls and lit",
-    "gameDescription": "Balls and Lit is a small, moody arcade game played in a dark room. You control a glowing ball with WASD. It never stops bouncing: hit a wall and you rebound off it, so every move becomes a ricochet.\nThe room is full of unlit lines. Roll over one and it ignites with a warm glow, lighting up the space around it. Light them all to win.",
-    "gameUrl": "https://saadhere121.itch.io/balls-and-lit",
-    "githubUrl": "https://github.com/saadhere121/balls-and-lit1",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/f7d7466b-09db-4bc1-85f1-d173a4a4a759.png",
-    "teamMembers": [
-      "Rehan P.",
-      "Saad A.",
-      "Shaban P.",
-      "Zawwar Y."
-    ]
-  },
-  {
-    "gameName": "Deflector",
-    "gameDescription": "A game consists of obstacles inspired by subway surfers",
-    "gameUrl": "https://abdi-dev1.itch.io/deflecto",
-    "githubUrl": "https://github.com/Abdidev1/Deflecto-",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/39b0db4d-0f37-4e4b-aa82-3db4d3d3f1c1.png",
-    "teamMembers": [
-      "Abdullah M.",
-      "Rehan S."
-    ]
-  },
-  {
-    "gameName": "Robo Run",
-    "gameDescription": "A retro pixel-art twist on the classic runner formula. Guide a jetpack-wearing robot across a lunar landscape, jumping over obstacles while springboards bounce you back into action. Dodge incoming hazards, time your bounces, and chase the high score in this atmospheric, arcade-style survival game",
-    "gameUrl": "https://hamu4268.itch.io/robo-run",
-    "githubUrl": "https://github.com/hamzamuhammadihamu/robo-run",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/4a6cf337-fad0-44cc-840a-b93356cd401f.png",
-    "teamMembers": [
-      "Hamza M."
-    ]
-  },
-  {
-    "gameName": "Bounce to Score",
-    "gameDescription": "Play football but you need to make the ball bounce from the wall before scoring or everything will explode.",
-    "gameUrl": "https://rabieulawal.itch.io/bounceball",
-    "githubUrl": "https://github.com/Rabieulawal/Haven",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/7f51b9df-ad89-47f9-9b53-3e78edd0d227.jpg",
-    "teamMembers": [
-      "rabie H."
-    ]
-  },
-  {
-    "gameName": "Echoes of Failure",
-    "gameDescription": "In Echoes of Failure, every time you fall, you leave behind a spring that helps your next attempt reach new heights. Navigate challenging platforming puzzles, turn your mistakes into momentum, and discover that sometimes, the only way forward is to fall first.\n\nFall. Learn. Bounce Back.",
-    "gameUrl": "https://da-wood69.itch.io/echoes-of-failure",
-    "githubUrl": "https://github.com/da-wood69/ECHOES-OF-FAILURE",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/bf5873dd-8299-4075-bb71-ca19ccaa02f2.png",
-    "teamMembers": [
-      "Haider A.",
-      "Muhammad D."
-    ]
-  },
-  {
-    "gameName": "Coin collector",
-    "gameDescription": "This is a real life bussiness game.",
-    "gameUrl": "https://husnainkhanmalayzai.itch.io/jew-simulator",
-    "githubUrl": "https://github.com/husnainkhanmalayzai/jew-simulator",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/ae56cf4f-6532-4304-9e06-995739bb06e1.png",
-    "teamMembers": [
-      "Ayesha Z.",
-      "Husnain K.",
-      "Pakistan P."
-    ]
-  },
-  {
-    "gameName": "Liminal Traverse",
-    "gameDescription": "Whilst trying to ascend to a higher dimension, you accidentally noclipped into another dimension.",
-    "gameUrl": "https://mythicgraph47.itch.io/liminal-traverse",
-    "githubUrl": "https://github.com/mythicgraph47/True-Liminality",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/00e17e1a-6af0-4cad-aac0-df6402397337.png",
-    "teamMembers": [
-      "Moosa N.",
-      "Rauf R."
-    ]
-  },
-  {
-    "gameName": "Rage Swing",
-    "gameDescription": "Swing from hooks rest yk vote dedo please",
-    "gameUrl": "https://death-walk.itch.io/rage-swing",
-    "githubUrl": "https://github.com/deathwalk819-sudo/Ragw-Swing",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/dd4af694-2ce6-476a-936e-b78bbf9e40b0.png",
-    "teamMembers": [
-      "Rohan A."
-    ]
-  },
-  {
-    "gameName": "rps",
-    "gameDescription": "meow:3",
-    "gameUrl": "https://bilalmaqsood783.itch.io/haven-100rps",
-    "githubUrl": "https://github.com/bilalmaqsood783/Haven_100rps",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/a6b8e000-bb76-4b36-9c3b-e3f94449ca43.png",
-    "teamMembers": [
-      "Bilal M.",
-      "Habib U.",
-      "Muhammad Anas B."
-    ]
-  },
-  {
-    "gameName": "Circuit Bounce",
-    "gameDescription": "By the theme it matches as the light/lazer bounces on the mirror, (you have to direct lazer to exit using mirrors)\n\nHow to Play & Controls \n\n Left-Click: Place a mirror on the board (up to 4 max). \n\n Scroll Wheel (Up / Down): Rotate the mirror you just placed to line up your angle. \n\n Fire Laser: (Add your fire key here, e.g., Spacebar / Right-Click) and shoot the beam.\n\n R: Restart the level and reset your mirrors at any time.\n\n\n\nRoute a high-energy laser beam through a tangled circuit board to hit the exit node. The catch? You only get 4 mirrors per run, so every bounce counts. Plan your angles, line up the shot, and see if you can clear the grid without running out of moves.",
-    "gameUrl": "https://aliyanmo.itch.io/circuit-bounce",
-    "githubUrl": "https://github.com/crecka/67",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/2704493b-4278-45ea-9172-13bfad64bb23.png",
-    "teamMembers": [
-      "Usman M."
-    ]
-  },
-  {
-    "gameName": "Gobo Water Bouncer",
-    "gameDescription": "A game in which a fantastic character gobo bounce 8n water to catch delicious muffins by avoiding rough materials.",
-    "gameUrl": "https://rayyantac4589.itch.io/gobo-water-bouncer",
-    "githubUrl": "https://github.com/Rayyan-Ahmed-blip/Gobo-Water-Bouncer",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/24230010-ebd0-40b2-9d20-8b8587aae1c8.png",
-    "teamMembers": [
-      "Rayyan A."
-    ]
-  },
-  {
-    "gameName": "Rewinder",
-    "gameDescription": "Rewinder is a 2D puzzle-adventure game where you use time clones to solve puzzles, explore mysterious places, avoid enemies and discover hidden secrets. It combines time travel, exploration and a little mystery.",
-    "gameUrl": "https://muhammadali150.itch.io/rewinder",
-    "githubUrl": "https://github.com/MuhammadAli150-code/rewinder2.0",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/8b19499c-90a0-4743-b143-d378009a9bf6.jpg",
-    "teamMembers": [
-      "Ali A."
-    ]
-  },
-  {
-    "gameName": "Tiny knights ;)",
-    "gameDescription": "play and enjoy the world of fantasy :)",
-    "gameUrl": "https://true-warrior-1.itch.io/tiny-knight",
-    "githubUrl": "https://github.com/codewith-rehan/Hackthon-",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/858b9e7d-92cc-4a94-aaca-e1238aeb24b0.png",
-    "teamMembers": [
-      "Ethan A."
-    ]
-  },
-  {
-    "gameName": "Bouncing lol",
-    "gameDescription": "A 2d game made by gamers girlies",
-    "gameUrl": "https://aleezay-asim.itch.io/bouncing-lol",
-    "githubUrl": "https://github.com/Aleezay36/Gamer_girlies",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/50f32cdf-6996-48e5-8d2d-7c8132a9ad27.png",
-    "teamMembers": [
-      "Aleezay A.",
-      "Izza S."
-    ]
-  },
-  {
-    "gameName": "Coin Collector",
-    "gameDescription": "A simple coin collector game.",
-    "gameUrl": "https://msafeerhassan.itch.io/coin-collector",
-    "githubUrl": "https://github.com/msafeerhassan/Coin-Collector",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/698f6fad-6351-4193-9c76-c33ae37c88a4.png",
-    "teamMembers": [
-      "Maryam I.",
-      "Safeer H.",
-      "Tooba K."
-    ]
-  },
-  {
-    "gameName": "Gangster World",
-    "gameDescription": "Welcome to Gangster World: The Silly-Sycophant Syndicate, the ultimate comedic sandbox where the physics are floppy, the hitmen are clueless, and the crime is downright ridiculous!",
-    "gameUrl": "https://en3ity.itch.io/gangster-world",
-    "githubUrl": "https://github.com/en3ity/Gangster-World-Godot",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/bb23019e-070b-4cc0-b48f-ef8f327a3c2e.gif",
-    "teamMembers": [
-      "Hamza H."
-    ]
-  },
-  {
-    "gameName": "RandomGame",
-    "gameDescription": "its a random game game based around bow and a arrow you gotta hit the godot to win",
-    "gameUrl": "https://um7futboll100-design.itch.io/my-hackclub-project",
-    "githubUrl": "https://github.com/um7futboll100-design/HackCLub-Game",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/861d9c80-4065-4211-bfd6-480c2529998b.png",
-    "teamMembers": [
-      "Aliyan M."
-    ]
-  },
-  {
-    "gameName": "jump on the box to see a surpirse glitch",
-    "gameDescription": "you have to do it , try multiple times but oyull see the glitch",
-    "gameUrl": "https://ayaanmoisback.itch.io/jump-to-see-a-glitch",
-    "githubUrl": "https://github.com/theayaanmo/jumptoseeaglitch",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-lahore/dc9366fc-1a94-40af-b5a6-d40150de19c2.png",
-    "teamMembers": [
-      "ayaanmo M."
-    ]
+{
+  "games": [
+    {
+      "id": "d3fd3f68-7233-4ae2-97c3-39b9e4b6a6b7",
+      "gameName": "PadTex",
+      "gameDescription": "Step onto the 3D court, sharpen your instincts, and test your reflexes! A fast paced mix of tennis and paddle action where quick thinking, sharp timing, and lightning-fast reactions make you the champion. 🎾🔥",
+      "gameUrl": "https://mohibdev.itch.io/padtex",
+      "githubUrl": "https://github.com/Muhammad-Mohib/PadTex",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/40b56bef-6ab8-4a0e-8dcc-f5ba5b5d0c85.png",
+      "teamMembers": [
+        "Muhammad M."
+      ],
+      "voteCount": 6
+    },
+    {
+      "id": "008c9984-6984-488d-afcc-d666178263f6",
+      "gameName": "Fruit Bounce",
+      "gameDescription": "Fruit Bounce\nThis is a two-player game where two players control two platforms. Fruits fall from the sky and players have to prevent them from falling on their side.\n\nControls\nPlayer 1: AD to move, W to hit Player 2: ← → to move, ↑ to hit",
+      "gameUrl": "https://shaheer-afaq.itch.io/fruit-bounce",
+      "githubUrl": "https://github.com/Shaheer-Afaq/fruit-bounce",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/8bf9b7bc-8334-43aa-bd37-53b2507df6f5.png",
+      "teamMembers": [
+        "Nyxen K.",
+        "Shaheer A."
+      ],
+      "voteCount": 5
+    },
+    {
+      "id": "31a80fb3-a29a-4fe0-aaf4-429ae57457c3",
+      "gameName": "Pink Man",
+      "gameDescription": "A 2D platformer made in Godot 4. Run, jump, collect apples and avoid the snails. Touch an enemy or fall off the map and the level restarts",
+      "gameUrl": "https://hadiamurad.itch.io/pink-man",
+      "githubUrl": "https://github.com/hadiyamurad/Pink-Man",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/e348e4b7-ba8b-4db4-b5fc-49ae3672ac52.png",
+      "teamMembers": [
+        "Hadia M.",
+        "Zainab H."
+      ],
+      "voteCount": 4
+    },
+    {
+      "id": "bc306f83-21e3-47a9-a560-a120bbcb2498",
+      "gameName": "Badminton",
+      "gameDescription": "A badminton game made in godot engine",
+      "gameUrl": "https://emi-aki.itch.io/badminton",
+      "githubUrl": "https://github.com/eshal28/badminton",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/2314d57a-0a60-4fe1-b55b-b0f2c74a1490.png",
+      "teamMembers": [
+        "Anabia R.",
+        "Aryan A.",
+        "Eshal A."
+      ],
+      "voteCount": 3
+    },
+    {
+      "id": "94b4908d-457b-4181-9dc1-a48f1ea2d707",
+      "gameName": "STARFALL: Shadows of the Last Light",
+      "gameDescription": "It's a five chapter action platformer with three selectable characters, sword combos, dash, sprint, jump, guard, bounce pads, enemies, hazards, checkpoints, difficulty levels, and a final boss. It also has on-screen touch controls for the web version.",
+      "gameUrl": "https://sparks33.itch.io/star-collect",
+      "githubUrl": "https://github.com/Sparks33/Starfall",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/73fe640a-35ca-4b92-a1da-35af8223fecc.png",
+      "teamMembers": [
+        "Hamd U."
+      ],
+      "voteCount": 3
+    },
+    {
+      "id": "b7bb14f4-7800-4e24-b4f0-cfb865020684",
+      "gameName": "bricks ball",
+      "gameDescription": "this game is just for fun ,so don't judge it. To play this game use left and right arrow key to move paddle this is my first time to make a game so please enjoy it as much as you can",
+      "gameUrl": "https://zohair-ahmed-chohan.itch.io/bricks-ball",
+      "githubUrl": "https://github.com/Zohair-ahmed-chohan/Brickgame",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/93504e49-77c6-4e62-a7db-8ee95c5c1c4e.png",
+      "teamMembers": [
+        "Abdul R.",
+        "Mariyam S.",
+        "zohair A."
+      ],
+      "voteCount": 3
+    },
+    {
+      "id": "8678edd7-5520-40a4-abaa-f7237d632fba",
+      "gameName": "firebounce",
+      "gameDescription": "u shoot fireballs with the consequence of facing ur own action",
+      "gameUrl": "https://kn1ghtmere.itch.io/firebounce",
+      "githubUrl": "https://github.com/Kn1ghtmere/Haven_bounce_ships",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/987c0f73-3bad-448b-960e-f57cfd5ddc0f.png",
+      "teamMembers": [
+        "Daniyal D."
+      ],
+      "voteCount": 3
+    },
+    {
+      "id": "38030f49-1a86-4c07-aaeb-e47be1de8201",
+      "gameName": "lead high",
+      "gameDescription": "move left right with arrow keys\npress spacebar to jump\n\ncan you guide the ball to the flag ? :)",
+      "gameUrl": "https://shahwaizabbasrizvi-max.itch.io/leap-high",
+      "githubUrl": "https://github.com/shahwaizabbasrizvi-max/Leap-High",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/15d722e8-9f96-41b0-8fce-3111a0e9a715.png",
+      "teamMembers": [
+        "Asad S.",
+        "Shahwaiz abbas R."
+      ],
+      "voteCount": 3
+    },
+    {
+      "id": "78722133-f4c6-4014-87dc-b71cb2d317ef",
+      "gameName": "Single player pong game",
+      "gameDescription": "Single player pong game made in godot for haven karachi",
+      "gameUrl": "https://subhanali07.itch.io/single-player-pong-game",
+      "githubUrl": "https://github.com/subhanali07/single-player-pong-game",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/2261d2d3-88d4-492a-8a15-8a9d90d7989c.png",
+      "teamMembers": [
+        "subhan ali A."
+      ],
+      "voteCount": 1
+    },
+    {
+      "id": "50d19028-d8d1-4eb3-a636-e812cf522e89",
+      "gameName": "Space Craze",
+      "gameDescription": "Collect all stars to win! Dodge the asteroids and stay in the window!",
+      "gameUrl": "https://umaima-zafar.itch.io/space-craze",
+      "githubUrl": "https://github.com/umaima-zafar/Space-Craze",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/5431ed8f-fe54-44d7-85bd-4028e23bc848.png",
+      "teamMembers": [
+        "Umaima Z.",
+        "fazila R."
+      ],
+      "voteCount": 1
+    },
+    {
+      "id": "1eab37a8-dbef-4f0e-858b-5584ec4174c4",
+      "gameName": "shieldxmonster",
+      "gameDescription": "a game where a ninja fight against a monster while being protected by a shield ( press enter key) to collect a diamond",
+      "gameUrl": "https://mariya5608.itch.io/shieldxmonster",
+      "githubUrl": "https://github.com/mariya5608/shieldxmonster",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/35db1292-68f6-4ba8-b952-2f7355f5a521.png",
+      "teamMembers": [
+        "Dameesha B.",
+        "Mariya B."
+      ],
+      "voteCount": 1
+    },
+    {
+      "id": "5c482e15-935e-42c6-bee5-30ce2d359921",
+      "gameName": "zombie",
+      "gameDescription": "chase the zombie",
+      "gameUrl": "https://umaima-2009.itch.io/zombie",
+      "githubUrl": "https://github.com/umaimajamal2009-beep/zombie",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/93927acd-48c7-44d6-8b5b-b946fb62c7c6.png",
+      "teamMembers": [
+        "Umaima J."
+      ],
+      "voteCount": 0
+    }
+  ],
+  "event": {
+    "slug": "karachi",
+    "attendees": 12,
+    "shippers": 21,
+    "games": 12
   }
-]
+}
